@@ -14,6 +14,5 @@ Applicar las medidas de tendencia central en ventas mensuales
 2. La desviación estandar fue de 30 k
    - Mayor que el mes anterior
      
-![image](https://github.com/RaulPuga/Microsoft-Excel/assets/174207857/c2e05b68-fc08-4fa5-88ec-cf6c2ea5a65e)
+![Raul_imagen](https://github.com/RaulPuga/Microsoft-Excel/assets/174207857/88b1b45e-3cb4-41ba-a280-fd0f59f0690d)
 
-k
