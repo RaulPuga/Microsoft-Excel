@@ -14,5 +14,10 @@ Applicar las medidas de tendencia central en ventas mensuales
 2. La desviación estandar fue de 30 k
    - Mayor que el mes anterior
      
-![Raul_imagen](https://github.com/RaulPuga/Microsoft-Excel/assets/174207857/88b1b45e-3cb4-41ba-a280-fd0f59f0690d)
-
+## Código
+```
+a=code
+for i in a
+   suma=i+1
+Print(f"suma {suma}")
+```
