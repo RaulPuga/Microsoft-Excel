@@ -14,7 +14,7 @@ Applicar las medidas de tendencia central en ventas mensuales
 2. La desviación estandar fue de 30 k
    - Mayor que el mes anterior
      
-## Código
+### Código
 ```
 a=code
 for i in a
