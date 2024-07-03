@@ -15,3 +15,5 @@ Applicar las medidas de tendencia central en ventas mensuales
    - Mayor que el mes anterior
      
 ![image](https://github.com/RaulPuga/Microsoft-Excel/assets/174207857/c2e05b68-fc08-4fa5-88ec-cf6c2ea5a65e)
+
+k
