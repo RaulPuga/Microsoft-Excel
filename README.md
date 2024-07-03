@@ -5,4 +5,13 @@ Base de datos de los productos más vendidos en wallmart
 identificados por código, día y región del mes de junio 2024.
 
 ## Objetivo
-Applicar las medidas de tendencia central 
+Applicar las medidas de tendencia central en ventas mensuales
+
+## Resultados del análisis
+1. Las ventas medias fueron en promedio $30 millones
+   - Ventas más altas que el mes anterior
+     
+2. La desviación estandar fue de 30 k
+   - Mayor que el mes anterior
+     
+![image](https://github.com/RaulPuga/Microsoft-Excel/assets/174207857/c2e05b68-fc08-4fa5-88ec-cf6c2ea5a65e)
